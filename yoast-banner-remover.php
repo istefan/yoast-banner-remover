@@ -1,7 +1,7 @@
 <?php
 /*
     Plugin Name: Yoast Banner Remover
-    Plugin URI: http://wpshed.com/yoast-banner-remover/
+    Plugin URI: http://wpshed.com/wordpress/plugins/yoast-banner-remover/
     Description: This plugin removes the sidebar ads from <a href="https://wordpress.org/plugins/google-analytics-for-wordpress/">Google Analytics by Yoast</a> plugin and <a href="https://wordpress.org/plugins/wordpress-seo/">Yoast SEO</a> plugin. By no means this is not intended to be a lack of appreciation for the plugin authors and we highly recommend using those plugins. It's just that sometimes a distraction free dashboard is more suitable, especially when dealing with clients.
     Version: 0.1
     Author: Stefan I.
